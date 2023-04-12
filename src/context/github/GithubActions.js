@@ -17,7 +17,6 @@ export const searchUsers = async (text) => {
 
   return items;
 };
-sd;
 
 //get single user info
 export const getUser = async (login) => {
