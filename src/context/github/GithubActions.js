@@ -17,6 +17,7 @@ export const searchUsers = async (text) => {
 
   return items;
 };
+dsa;
 
 //get single user info
 export const getUser = async (login) => {
